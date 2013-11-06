@@ -6,7 +6,7 @@ The original extension needed updating to work. Hopefully this saves someone the
 
 See this StackOverflow post for more information.
 
-http://stackoverflow.com/questions/13884953/emacs-keybindings-in-visual-studio-2012
+http://stackoverflow.com/questions/13884953/emacs-keybindings-in-visual-studio-2012.
 
 ```
 Copy the emacs.vsix file somewhere on your C drive.
