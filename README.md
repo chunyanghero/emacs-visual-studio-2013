@@ -1,6 +1,6 @@
-# Emacs VS2012
+# Emacs VS2013
 
-Emacs keybindings for VS2012. 
+Emacs keybindings for VS2013. 
 
 The original extension needed updating to work. Hopefully this saves someone the trouble of figuring it out.
 
